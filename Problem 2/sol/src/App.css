@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+.addbtn {
+  padding: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.boxes {
+  width: 50vw;
+  height: 100px;
+  border: 1px solid black;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.dltbtn {
+  padding: 10px;
+}
